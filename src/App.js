@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import customers from "./Customer-data";
 import StatsContainer from "./StatsContainer";
 import CustomerContainer from "./CustomersContainer";
