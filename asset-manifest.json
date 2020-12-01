@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/Customer-Dashboard/static/js/main.93505006.chunk.js",
+    "main.js.map": "/Customer-Dashboard/static/js/main.93505006.chunk.js.map",
+    "runtime-main.js": "/Customer-Dashboard/static/js/runtime-main.557a4dfc.js",
+    "runtime-main.js.map": "/Customer-Dashboard/static/js/runtime-main.557a4dfc.js.map",
+    "static/css/2.43b2b750.chunk.css": "/Customer-Dashboard/static/css/2.43b2b750.chunk.css",
+    "static/js/2.5e808cad.chunk.js": "/Customer-Dashboard/static/js/2.5e808cad.chunk.js",
+    "static/js/2.5e808cad.chunk.js.map": "/Customer-Dashboard/static/js/2.5e808cad.chunk.js.map",
+    "index.html": "/Customer-Dashboard/index.html",
+    "static/css/2.43b2b750.chunk.css.map": "/Customer-Dashboard/static/css/2.43b2b750.chunk.css.map",
+    "static/js/2.5e808cad.chunk.js.LICENSE.txt": "/Customer-Dashboard/static/js/2.5e808cad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.557a4dfc.js",
+    "static/css/2.43b2b750.chunk.css",
+    "static/js/2.5e808cad.chunk.js",
+    "static/js/main.93505006.chunk.js"
+  ]
+}
